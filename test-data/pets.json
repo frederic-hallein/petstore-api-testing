@@ -1,5 +1,5 @@
 {
-    "cats": [
+    "TestDataPets": [
         {
             "id": 1,
             "category": {
@@ -18,7 +18,6 @@
             ],
             "status": "available"
         },
-
         {
             "id": 2,
             "category": {
@@ -36,12 +35,9 @@
                 }
             ],
             "status": ""
-        }
-    ],
-
-    "dogs": [
+        },
         {
-            "id": 1,
+            "id": 3,
             "category": {
                 "id": 0,
                 "name": ""
@@ -58,12 +54,9 @@
                 }
             ],
             "status": "pending"
-        }
-    ],
-
-    "birds": [
+        },
         {
-            "id": 1,
+            "id": 4,
             "category": {
                 "id": 0,
                 "name": "parrots"
