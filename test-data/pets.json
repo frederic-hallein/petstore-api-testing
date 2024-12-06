@@ -1,0 +1,84 @@
+{
+    "cats": [
+        {
+            "id": 1,
+            "category": {
+                "id": 0,
+                "name": "British Shorthair"
+            },
+            "name": "Bella",
+            "photoUrls": [
+                "https://www.google.com/search?sca_esv=3ddc15aac6af2d0d&sxsrf=ADLYWIJcfrWF9wgCNv2ZrcAOrPzzHIT-pw:1733411786779&q=British+Shorthair&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3JyJJclJuzBPl12qJyPx7ESJehObpS5jg6J88CCM-RK72sNV8xvbUxy-SoOtM-WmPLIjZzuRzEJJ0u2V8OeDS2QzrFq0l6uL0u5ydk68vXkBqxln9Kbinx1HZnJEg4P6VfVQ98eE&sa=X&ved=2ahUKEwi4sbOO9pCKAxVvLPsDHbOLIdkQtKgLegQIHRAB&biw=2048&bih=1005&dpr=1.25#vhid=cwXWw-pizl-A-M&vssid=mosaic"
+            ],
+            "tags": [
+                {
+                "id": 1,
+                "name": "tag1, tag2, tag3"
+                }
+            ],
+            "status": "available"
+        },
+
+        {
+            "id": 2,
+            "category": {
+                "id": 0,
+                "name": "Siamese cat"
+            },
+            "name": "Misty",
+            "photoUrls": [
+                "https://www.google.com/search?sca_esv=3ddc15aac6af2d0d&sxsrf=ADLYWIK82mke1UUaoLC8TTvo-t826D21gw:1733411934589&q=Siamese+cat&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J0TTyieiSn4vVsjkTS5Hqtf4g42CrlErv5TdXaRk6ND4KJqlYJAEsj-kC5aknWmkN3l20fd6qLdP00yowDO24b5eE1bbMG6EGL--Objp67t01_EyGTGGht3Ao7YJvHFPL82-Sf8&sa=X&ved=2ahUKEwjxhPHU9pCKAxUNU6QEHcuuGRYQtKgLegQIEhAB&biw=2048&bih=1005&dpr=1.25#vhid=fsvexpaZ60Hc1M&vssid=mosaic"
+            ],
+            "tags": [
+                {
+                "id": 2,
+                "name": "tag3"
+                }
+            ],
+            "status": ""
+        }
+    ],
+
+    "dogs": [
+        {
+            "id": 1,
+            "category": {
+                "id": 0,
+                "name": ""
+            },
+            "name": "Frankie",
+            "photoUrls": [
+                "https://www.google.com/search?sca_esv=3ddc15aac6af2d0d&sxsrf=ADLYWIIOU0uaunZUkR5QuO4Cnw1upNYJJw:1733412453763&q=German+Shepherd&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3JyJJclJuzBPl12qJyPx7ESJehObpS5jg6J88CCM-RK72sNV8xvbUxy-SoOtM-WmPLIjZzuRzEJJ0u2V8OeDS2QzrFq0l6uL0u5ydk68vXkBqxln9Kbinx1HZnJEg4P6VfVQ98eE&sa=X&ved=2ahUKEwiw4LjM-JCKAxXDTaQEHRkbNpUQtKgLegQIGxAB&biw=2048&bih=1005&dpr=1.25#vhid=1-BuyS2k_bNoPM&vssid=mosaic", 
+                "https://www.google.com/search?sca_esv=3ddc15aac6af2d0d&sxsrf=ADLYWIIOU0uaunZUkR5QuO4Cnw1upNYJJw:1733412453763&q=German+Shepherd&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3JyJJclJuzBPl12qJyPx7ESJehObpS5jg6J88CCM-RK72sNV8xvbUxy-SoOtM-WmPLIjZzuRzEJJ0u2V8OeDS2QzrFq0l6uL0u5ydk68vXkBqxln9Kbinx1HZnJEg4P6VfVQ98eE&sa=X&ved=2ahUKEwiw4LjM-JCKAxXDTaQEHRkbNpUQtKgLegQIGxAB&biw=2048&bih=1005&dpr=1.25#vhid=MadgLdQ_K-avUM&vssid=mosaic"
+            ],
+            "tags": [
+                {
+                "id": 5,
+                "name": ""
+                }
+            ],
+            "status": "pending"
+        }
+    ],
+
+    "birds": [
+        {
+            "id": 1,
+            "category": {
+                "id": 0,
+                "name": "parrots"
+            },
+            "name": "Pipsqueak",
+            "photoUrls": [
+                "https://www.google.com/search?sca_esv=3ddc15aac6af2d0d&sxsrf=ADLYWIJfMb1U54RfT49R_nsYMexjF1uH9g:1733412617338&q=Parrot&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J7pRxUp2pI1mXV9fBsfh39KRvAkf_RbLmqO8b2Na6CPIBLMA2-hsroqVtXn5etlxxwf68tQxJ2N2uG9qHFf3SeDUe-Q9UTbzyXHp_UgmMIZPJedoOQbXjnExXFviOh_YBSq89Os&sa=X&ved=2ahUKEwiIwria-ZCKAxUtUKQEHUe8GLkQtKgLegQIHBAB&biw=2048&bih=1005&dpr=1.25#vhid=qR2VuiEJpoy6IM&vssid=mosaic"
+            ],
+            "tags": [
+                {
+                "id": 0,
+                "name": "tag4, tag1"
+                }
+            ],
+            "status": "sold"
+        }
+    ]
+}
