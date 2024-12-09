@@ -3,7 +3,7 @@
         {
             "id": 1,
             "category": {
-                "id": 0,
+                "id": 1,
                 "name": "British Shorthair"
             },
             "name": "Bella",
@@ -21,7 +21,7 @@
         {
             "id": 2,
             "category": {
-                "id": 0,
+                "id": 1,
                 "name": "Siamese cat"
             },
             "name": "Misty",
@@ -40,7 +40,7 @@
             "id": 3,
             "category": {
                 "id": 0,
-                "name": ""
+                "name": "German Shepherd"
             },
             "name": "Frankie",
             "photoUrls": [
