@@ -30,4 +30,5 @@ npx playwright test
 To run your tests in headed mode, use the `--headed` flag
 
 ## Test Cases
-(...)
+
+https://trello.com/b/tgVgvFkN/petstore-api-testing
