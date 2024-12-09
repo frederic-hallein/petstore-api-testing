@@ -73,5 +73,33 @@
             ],
             "status": "sold"
         }
+    ],
+
+    "NewTestDataPets": [
+        {
+            "id": 2,
+            "category": {
+                "id": 3,
+                "name": "Maine Coon"
+            },
+            "name": "Trixie",
+            "photoUrls": ["https://www.google.com/search?sca_esv=8ecf68fec1b05011&sxsrf=ADLYWIJHwqqOQYixmwgKgOAZaD4w7xH5xQ:1733739429192&q=Maine+Coon&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3JyJJclJuzBPl12qJyPx7ESJehObpS5jg6J88CCM-RK72sNV8xvbUxy-SoOtM-WmPLIjZzuRzEJJ0u2V8OeDS2QzrFq0l6uL0u5ydk68vXkBqxln9Kbinx1HZnJEg4P6VfVQ98eE&sa=X&ved=2ahUKEwi4pb3WupqKAxVlcaQEHef4K2wQtKgLegQIFRAB&biw=3072&bih=1581&dpr=1.25#vhid=eDaZbHHMToLfFM&vssid=mosaic", 
+                          "https://www.google.com/search?sca_esv=8ecf68fec1b05011&sxsrf=ADLYWIJHwqqOQYixmwgKgOAZaD4w7xH5xQ:1733739429192&q=Maine+Coon&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3JyJJclJuzBPl12qJyPx7ESJehObpS5jg6J88CCM-RK72sNV8xvbUxy-SoOtM-WmPLIjZzuRzEJJ0u2V8OeDS2QzrFq0l6uL0u5ydk68vXkBqxln9Kbinx1HZnJEg4P6VfVQ98eE&sa=X&ved=2ahUKEwi4pb3WupqKAxVlcaQEHef4K2wQtKgLegQIFRAB&biw=3072&bih=1581&dpr=1.25#vhid=RC_k1P2GW_UHiM&vssid=mosaic"
+            ],
+            "tags": [],
+            "status": "pending"
+        },
+        {
+            "id": 1,
+            "category": {
+                "id": 0,
+                "name": ""
+            },
+            "name": "",
+            "photoUrls": [],
+            "tags": [],
+            "status": ""
+        }
+
     ]
 }

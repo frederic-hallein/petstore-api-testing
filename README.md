@@ -1,6 +1,6 @@
 # Petstore API Testing
 ## Description
-
+(...)
 
 ## How To Install & Run
 1. Install Playwright by running the command:
@@ -19,7 +19,7 @@ npx playwright --version
 
 3. To clone the repository, run the following command:
 ```bash
-git clone 
+git clone https://github.com/frederic-hallein/petstore-api-testing
 ```
 
 4. To run the project, go inside the `petstore-api-testing/` folder and use the following command:
@@ -30,4 +30,4 @@ npx playwright test
 To run your tests in headed mode, use the `--headed` flag
 
 ## Test Cases
-
+(...)
