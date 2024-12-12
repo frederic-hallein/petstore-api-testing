@@ -1,6 +1,8 @@
 # Petstore API Testing
 ## Description
-(...)
+[Petstore](https://petstore.swagger.io/) is a sample API that simulates a pet shop management server. 
+The API allows you to access Petstore data using a set of individual calls. There are three endpoint groups namely Pet, Store and User. 
+In this repository, all test cases are written using Playwright.
 
 ## How To Install & Run
 1. Install Playwright by running the command:

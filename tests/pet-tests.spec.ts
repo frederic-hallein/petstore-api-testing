@@ -2,6 +2,9 @@ import { test, expect } from "@playwright/test";
 
 import { TestDataPets, NewTestDataPets } from "../test-data/pets.json";
 
+
+// TODO : create a random data generator in a helper function
+
 test.describe("API Tests Pets - all API tests related to the 'Pets' section of Petstore", () => {
   
   const statuses: string[] = ["available", "pending", "sold"];
